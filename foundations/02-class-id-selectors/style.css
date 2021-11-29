@@ -8,18 +8,18 @@
 
 */
 
-#odd {
+.odd {
     background-color: rgb(180, 0, 180);
     font-family: 'Verdana', 'sans-serif';
 }
-.second {
+#second {
     color: hsl(245, 100%, 50%);
     font-size: 36px;
 }
 .third {
     font-size: 24px;
 }
-.fourth {
+#fourth {
     background-color: #89ff89;
     font-size: 24px;
     font-weight: 700;
